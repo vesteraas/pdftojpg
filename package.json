@@ -1,0 +1,24 @@
+{
+  "name": "pdftojpg",
+  "version": "0.0.1",
+  "description": "Converts a PDF file to a JPG file",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "ur": "https://github.com/vesteraas/pdftojpg"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "pdf",
+    "jpg",
+    "convert"
+  ],
+  "author": "wvesteraas@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.0.3",
+    "temp": "^0.8.3"
+  }
+}
